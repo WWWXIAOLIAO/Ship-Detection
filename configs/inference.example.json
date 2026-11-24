@@ -1,0 +1,9 @@
+{
+  "run": "yolo11s_seed42",
+  "alpha": {
+    "baseline": 0.0,
+    "names": 0.2,
+    "descriptions": 0.0
+  },
+  "note": "Reference run, selected on internal validation. Use --alpha to run a positive-weight ablation."
+}

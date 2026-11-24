@@ -1,0 +1,38 @@
+[
+  {
+    "run": "yolo11n_seed42",
+    "epochs": 100,
+    "seconds": 462.4,
+    "best_native_val_map": 0.8139
+  },
+  {
+    "run": "yolo11n_seed43",
+    "epochs": 93,
+    "seconds": 432.17,
+    "best_native_val_map": 0.8291
+  },
+  {
+    "run": "yolo11n_seed44",
+    "epochs": 84,
+    "seconds": 392.81,
+    "best_native_val_map": 0.85415
+  },
+  {
+    "run": "yolo11s_seed42",
+    "epochs": 100,
+    "seconds": 558.49,
+    "best_native_val_map": 0.84127
+  },
+  {
+    "run": "yolo11s_seed43",
+    "epochs": 100,
+    "seconds": 562.71,
+    "best_native_val_map": 0.84859
+  },
+  {
+    "run": "yolo11s_seed44",
+    "epochs": 100,
+    "seconds": 577.99,
+    "best_native_val_map": 0.88526
+  }
+]

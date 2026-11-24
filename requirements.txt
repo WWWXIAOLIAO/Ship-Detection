@@ -1,0 +1,3 @@
+# First install the CUDA or CPU build of torch/torchvision for your machine.
+# Install editable package and optional plotting dependencies:
+-e .[plots]

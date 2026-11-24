@@ -1,0 +1,22 @@
+path: ../data/processed
+train: images/train
+val: images/val
+test: images/test
+names:
+  0: Japan_Destroyer_DD_Akizuki-class
+  1: Japan_Destroyer_DD_Asahi-class
+  2: Japan_Frigate_Multi-mission_FFM_Mogami-class
+  3: Japan_Guided Missile Destroyer_DDG_Atago-class
+  4: Japan_Guided Missile Destroyer_DDG_Maya-class
+  5: Japan_Helicopter_Destroyer_DDH_Hyuga-class
+  6: Japan_Helicopter_Destroyer_DDH_Izumo-class
+  7: USA_Amphibious_Assault_Ships_America-Class_LHA(R)_Flight0
+  8: USA_Amphibious_Transport_Dock_LPD_SAN_ANTONIO-Class
+  9: USA_Destroyers_DDG1000_Zumwalt-class
+  10: USA_Destroyers_DDG51_Arleigh_Burke_class_FlightIII
+  11: USA_Destroyers_DDG51_Arleigh_Burke-class_FlightI
+  12: USA_Destroyers_DDG51_Arleigh_Burke-class_FlightII
+  13: USA_Destroyers_DDG51_Arleigh_Burke-class_FlightIIA
+  14: USA_Littoral_Combat_Ship_Class_LCS_Independence
+  15: USA_Littoral_Combat_Ship_Class_LCS_Freedom
+  16: other_ship
